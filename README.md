@@ -18,13 +18,15 @@
 - Maintained strict operational standards and data accuracy during testing, ensuring zero contamination or documentation errors.
 
 ## Projects
-### M&A Strategic Analysis: Microsoft x Activision
+### M&A Strategic Analysis: Microsoft x Activision [Link]()
 Evaluated a $68B acquisition target using quantitative decision models. Analyzed EBITDA margins and user growth across 4 potential targets to justify the 45% acquisition premium.
 ![Revenue comparison of potential targets](/assets/images/decision analytics projects/final project/Revenue Comparison.png)
-![Numbers for potential targets](/assets/images/decision analytics projects/final project/Numbers for the potential targets.png)
-![SWOT analysis for primary target](/assets/images/decision analytics projects/final project/Main target SWOT analysis.png)
-[Link]()
 
+### Cloud Data Management: Sports Performance Analytics [Link]()
+Managed large-scale MLB dataset hosted on AWS to optimize talent recruitment strategies.
+Engineered a Master Player View using Complex Joins and Window Functions (PARTITION BY) to smooth out salary volatility and identify consistent high-performers over a 5-year period.
+Tools: SQL (Advanced Querying), AWS RDS, Data Normalization
+![Output for the moving averages using partition by](/assets/images/edbms snippets/moving avg output.jpg)
 
 
 
