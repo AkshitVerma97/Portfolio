@@ -13,12 +13,16 @@
 - Enhanced task completion efficiency by restructuring team seating and optimizing email labeling system within Gmail.
 - Managed client databases using Google Sheets and Excel, leveraged pivot tables and lookup functions for efficient data retrieval.
 
-**Laboratory Intern @ International Center for Genetic Engineering and Biotechnology (_Jun 2018 - Jul 2018_)**
-- 
+**Research Lab Intern @ International Center for Genetic Engineering and Biotechnology (_Jun 2018 - Jul 2018_)**
+- Collaborated with senior fellows to execute complex experimental workflows for malaria vaccine research (OPA3 protein).
+- Maintained strict operational standards and data accuracy during testing, ensuring zero contamination or documentation errors.
 
 ## Projects
 ### M&A Strategic Analysis: Microsoft x Activision
 Evaluated a $68B acquisition target using quantitative decision models. Analyzed EBITDA margins and user growth across 4 potential targets to justify the 45% acquisition premium.
+![Revenue comparison of potential targets](/assets/images/decision analytics projects/final project/Revenue Comparison.png)
+![Numbers for potential targets](/assets/images/decision analytics projects/final project/Numbers for the potential targets.png)
+![SWOT analysis for primary target](/assets/images/decision analytics projects/final project/Main target SWOT analysis.png)
 [Link]()
 
 
