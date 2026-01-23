@@ -1,4 +1,4 @@
-# Business Analyst
+  # Business Analyst
 
 #### Technical Skills: SQL, Excel, PowerBI, Business Analysis
 
@@ -26,7 +26,7 @@ Evaluated a $68B acquisition target using quantitative decision models. Analyzed
 Managed large-scale MLB dataset hosted on AWS to optimize talent recruitment strategies.
 Engineered a Master Player View using Complex Joins and Window Functions (PARTITION BY) to smooth out salary volatility and identify consistent high-performers over a 5-year period.
 Tools: SQL (Advanced Querying), AWS RDS, Data Normalization
-![Output for the moving averages using partition by](/assets/images/edbms snippets/moving avg output.jpg)
+![Output for the moving averages using partition by](/assets/images/edbms snippets/moving avg output.JPG)
 
 
 
