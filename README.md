@@ -1,11 +1,21 @@
 
+---
+layout: default
+title: Akshit Verma
+---
+<style>
+  /* This targets the sidebar photo and makes it round */
+  header img {
+    border-radius: 50%;
+  }
+</style>
 <div style="text-align: center;">
   <h1>Akshit Verma</h1>
   <p><strong>Data Analyst | Business Strategy | Business Analyst</strong></p>
   <p>
     <a href="https://www.linkedin.com/in/akshit-verma-324b6016b">LinkedIn</a> |
     <a href="https://akshitverma97.github.io/Portfolio/">GitHub</a> |
-    <a href="kippiakshit@gmail.com">Email</a>
+    <a href="mailto:kippiakshit@gmail.com">Email</a>
   </p>
 </div>
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
