@@ -1,3 +1,7 @@
+---
+layout: default
+title: Akshit Verma
+---
 <style>
   /* Force the header photo to be a circle */
   header img {
