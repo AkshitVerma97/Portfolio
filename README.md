@@ -1,13 +1,4 @@
 ---
-layout: default
-title: Akshit Verma
----
-<style>
-.wrapper {
-    max-width: 1000px !important;
-    width: 95% !important;
-}
-</style>  
 <div style="text-align: center;">
   
   <img src="assets/images/akshit_pic_1.jpg" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover; border: 3px solid #e1e1e1;" alt="Akshit Verma">
