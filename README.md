@@ -1,6 +1,4 @@
----
-<div style="text-align: center;">
-  
+<div style="text-align: center;">  
   <img src="assets/images/akshit_pic_1.jpg" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover; border: 3px solid #e1e1e1;" alt="Akshit Verma">
 <div style="text-align: center;">
   <h1>Akshit Verma</h1>
