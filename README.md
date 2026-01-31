@@ -1,23 +1,4 @@
----
-layout: default
-title: Akshit Verma
----
-<style>
-  /* Force the header photo to be a circle */
-  header img {
-    border-radius: 50% !important;
-    border: 3px solid #e1e1e1 !important;
-    width: 150px !important;
-    height: 150px !important;
-    object-fit: cover !important;
-  }
-  
-  /* Prevent the page from being too narrow */
-  .wrapper {
-    max-width: 1000px !important;
-    width: 95% !important;
-  }
-</style>
+
 <div style="text-align: center;">
   <h1>Akshit Verma</h1>
   <p><strong>Data Analyst | Business Strategy | Business Analyst</strong></p>
