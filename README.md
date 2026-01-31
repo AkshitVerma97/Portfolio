@@ -6,6 +6,7 @@ title: Akshit Verma
 .wrapper {
     max-width: 1000px !important;
     width: 95% !important;
+}
 </style>  
 <div style="text-align: center;">
   
@@ -14,7 +15,7 @@ title: Akshit Verma
   <h1>Akshit Verma</h1>
   <p><strong>Data Analyst | Business Strategy | Business Analyst</strong></p>
   <p>
-    <a href="www.linkedin.com/in/akshit-verma-324b6016b">LinkedIn</a> |
+    <a href="https://www.linkedin.com/in/akshit-verma-324b6016b">LinkedIn</a> |
     <a href="https://akshitverma97.github.io/Portfolio/">GitHub</a> |
     <a href="kippiakshit@gmail.com">Email</a>
   </p>
