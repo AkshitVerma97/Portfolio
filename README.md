@@ -1,7 +1,15 @@
-
+---
+layout: default
+title: Akshit Verma
+---
+<style>
+.wrapper {
+    max-width: 1000px !important;
+    width: 95% !important;
+</style>  
 <div style="text-align: center;">
   
-  <img src="assets/images/akshit_pic_1.jpg" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 3px solid #e1e1e1;" alt="Akshit Verma">
+  <img src="assets/images/akshit_pic_1.jpg" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover; border: 3px solid #e1e1e1;" alt="Akshit Verma">
 <div style="text-align: center;">
   <h1>Akshit Verma</h1>
   <p><strong>Data Analyst | Business Strategy | Business Analyst</strong></p>
