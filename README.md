@@ -1,9 +1,3 @@
-<style>
-  .wrapper {
-    max-width: 1000px !important;
-    width: 95% !important;
-  }
-</style>
 
 <div style="text-align: center;">
   
