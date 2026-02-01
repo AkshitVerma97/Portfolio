@@ -1,8 +1,12 @@
 <style>/* Change the Sidebar Title to Blue */
-  header h1, header h1 a {
-    color: #0056b3 !important;  /* Professional Dark Blue */
-    /* color: #007bff !important;  <-- Use this for a brighter "Twitter" Blue */
-  }
+/* 1. Target the Name in the center of the page */
+h1 {
+  color: #0056b3 !important;
+}
+/* 2. (Optional) Target the Sidebar Title specifically if the above doesn't catch it */
+header h1 a, section h1 {
+  color: #0056b3 !important;
+}
 </style>
 <style>
 header img {
