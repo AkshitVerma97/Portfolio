@@ -1,3 +1,8 @@
+<style>
+  header img, .site-avatar img {
+    border-radius: 50% !important;
+  }
+</style>
 <div style="text-align: center;">
   <h1>Akshit Verma</h1>
   <p><strong>Data Analyst | Business Strategy | Business Analyst</strong></p>
