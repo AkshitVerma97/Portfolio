@@ -1,14 +1,3 @@
----
-layout: default
-title: Akshit Verma
----
-<style>
-  /* Target the theme's built-in logo and force it round */
-  .site-avatar img, header img {
-    border-radius: 50% !important;
-    border: 3px solid #e1e1e1 !important;
-  }
-</style>
 <div style="text-align: center;">
   <h1>Akshit Verma</h1>
   <p><strong>Data Analyst | Business Strategy | Business Analyst</strong></p>
