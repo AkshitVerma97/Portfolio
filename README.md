@@ -1,6 +1,11 @@
 <style>
-  header img, .site-avatar img {
-    border-radius: 50% !important;
+  /* Target the sidebar image from _config.yml */
+  .site-avatar img {
+    width: 150px !important;       /* Forces width to be square */
+    height: 150px !important;      /* Forces height to match width */
+    object-fit: cover !important;  /* Crops the photo so it doesn't look squashed */
+    border-radius: 50% !important; /* Turns the square into a circle */
+    border: 3px solid #e1e1e1 !important; /* Adds a clean border */
   }
 </style>
 <div style="text-align: center;">
