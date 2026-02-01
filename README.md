@@ -1,12 +1,15 @@
-<style>
-  .site-avatar img {
-    width: 150px;           /* Must have equal width and height */
-    height: 150px;          /* ^ This makes it a square first */
-    object-fit: cover;      /* Crops the photo to fit the square without stretching */
-    border-radius: 50%;     /* Turns the square into a perfect circle */
-    border: 4px solid #e1e1e1;
-    display: block;         /* Removes extra spacing at bottom */
+<style>/* Change the Sidebar Title to Blue */
+  header h1, header h1 a {
+    color: #0056b3 !important;  /* Professional Dark Blue */
+    /* color: #007bff !important;  <-- Use this for a brighter "Twitter" Blue */
   }
+</style>
+<style>
+header img {
+  border-radius: 50% !important;        /* 1. Turns square into circle */
+  border: 4px solid #e1e1e1 !important; /* 2. Adds the light grey border */
+  box-shadow: 0 0 10px rgba(0,0,0,0.1) !important; /* 3. Adds a soft fade/shadow */
+}
 </style>
 <div style="text-align: center;">
   <h1>Akshit Verma</h1>
