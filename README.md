@@ -3,7 +3,7 @@
 h1 {
   color: #0056b3 !important;
 }
-/* 2. (Optional) Target the Sidebar Title specifically if the above doesn't catch it */
+/* 2. Target the Sidebar Title specifically if the above doesn't catch it */
 header h1 a, section h1 {
   color: #0056b3 !important;
 }
@@ -15,31 +15,7 @@ header img {
   box-shadow: 0 0 10px rgba(0,0,0,0.1) !important; /* 3. Adds a soft fade/shadow */
 }
 </style>
-/* --- COLOR THEME UPGRADE --- */
-<style>
-  /* 1. The Sidebar (Header) - Soft Business Blue */
-  header {
-    background-color: #eef5f9 !important;  /* Light Blue-Grey */
-    border-right: 1px solid #d1d9e6 !important; /* Subtle separator line */
-  }
 
-  /* 2. The Main Page - Clean Off-White */
-  body {
-    background-color: #fafafa !important;  /* Soft Off-White (easier on eyes than pure white) */
-    color: #333333 !important;             /* Dark Grey Text (High Contrast) */
-  }
-
-  /* 3. The Links - Your "Brand Blue" */
-  a {
-    color: #0056b3 !important;
-  }
-  
-  /* 4. The Separator Lines - Faded Blue */
-  hr {
-    border-bottom: 2px solid #0056b3 !important;
-    opacity: 0.1; /* Makes it subtle */
-  }
-</style>
 <div style="text-align: center;">
   <h1>Akshit Verma</h1>
   <p><strong>Data Analyst | Business Strategy | Business Analyst</strong></p>
@@ -103,6 +79,8 @@ header img {
 **Research Lab Intern @ International Center for Genetic Engineering and Biotechnology (_Jun 2018 - Jul 2018_)**
 - Collaborated with senior fellows to execute complex experimental workflows for malaria vaccine research (OPA3 protein).
 - Maintained strict operational standards and data accuracy during testing, ensuring zero contamination or documentation errors.
+
+---
 
 ## Projects
 
