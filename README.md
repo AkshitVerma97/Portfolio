@@ -1,7 +1,11 @@
 <style>
   .site-avatar img {
-    border-radius: 50% !important;
-    border: 4px solid #e1e1e1 !important;
+    width: 150px;           /* Must have equal width and height */
+    height: 150px;          /* ^ This makes it a square first */
+    object-fit: cover;      /* Crops the photo to fit the square without stretching */
+    border-radius: 50%;     /* Turns the square into a perfect circle */
+    border: 4px solid #e1e1e1;
+    display: block;         /* Removes extra spacing at bottom */
   }
 </style>
 <div style="text-align: center;">
