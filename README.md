@@ -84,7 +84,7 @@ header img {
 
 ## Projects
 
-### Lending Club: Algorithmic Investment Strategy Fall 2025 | Data Mining and Financial Analysis [LINK]()
+### Lending Club: Algorithmic Investment Strategy Fall 2025 | Data Mining and Financial Analysis [LINK](https://github.com/AkshitVerma97/lending-club-risk-strategy)
 
 Designed a quantitative business plan for a $5M Peer-to-Peer (P2P) lending fund, analyzing a dataset of over 1 million loan records to identify high-yield borrower segments. Evaluated the feasibility of Machine Learning classifiers (SVM, Neural Networks) for default prediction, conducting a gap analysis between the model’s performance (AUROC 0.69) and industry baselines to assess deployment viability.
 
