@@ -94,7 +94,7 @@ Constructed a financial revenue model projecting a Net Annualized Return (NAR) o
 
 ---
 
-### Cloud Data Management: Sports Performance Analytics Spring 2025 | Database Management using SQL [LINK]() 
+### Cloud Data Management: Sports Performance Analytics Spring 2025 | Database Management using SQL [LINK](https://github.com/AkshitVerma97/mlb-talent-analytics-sql) 
 Managed large-scale MLB dataset hosted on AWS to optimize talent recruitment strategies.
 Engineered a Master Player View using Complex Joins and Window Functions (PARTITION BY) to smooth out salary volatility and identify consistent high-performers over a 5-year period.
 Tools: SQL (Advanced Querying), AWS RDS, Data Normalization
