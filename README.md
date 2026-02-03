@@ -109,7 +109,7 @@ Evaluated a $68B acquisition target using quantitative decision models. Analyzed
 
 ---
 
-### Caterpillar Inc. (CAT): Financial Valuation & Strategy Fall 2025 | Corporate Finance Analytics [LINK]()
+### Caterpillar Inc. (CAT): Financial Valuation & Strategy Fall 2025 | Corporate Finance Analytics [LINK](https://github.com/AkshitVerma97/caterpillar-equity-research)
 
 Collaborated on a comprehensive investment analysis of Caterpillar Inc., combining fundamental financial evaluation with machine learning-based price forecasting. Conducted deep-dive ratio analysis of Q3 2025 financial statements to assess operational health and validate the team's valuation models against market reality.
 
