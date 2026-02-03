@@ -133,7 +133,7 @@ Defined the resource procurement roadmap—securing cloud infrastructure and leg
 
 ---
 
-### Boeing Crisis: Organizational Behavior Case Study Fall 2025 | Organizational Behavior [LINK]()
+### Boeing Crisis: Organizational Behavior Case Study Fall 2025 | Organizational Behavior [LINK](https://github.com/AkshitVerma97/boeing-culture-crisis-analysis)
 
 Analyzed the Boeing 737 MAX crisis to diagnose the organizational shift from an engineering-centric culture to one driven by financial metrics. Applied frameworks like Expectancy Theory and Psychological Safety to show how management practices discouraged dissent and severed the link between safety efforts and rewards.
 
