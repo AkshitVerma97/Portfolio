@@ -103,7 +103,7 @@ Tools: SQL (Advanced Querying), AWS RDS, Data Normalization
 
 ---
 
-### M&A Strategic Analysis: Microsoft x Activision Spring 2025 | Business Analytics using Quantitative Modeling [LINK]()
+### M&A Strategic Analysis: Microsoft x Activision Spring 2025 | Business Analytics using Quantitative Modeling [LINK](https://github.com/AkshitVerma97/microsoft-activision-merger-analysis)
 Evaluated a $68B acquisition target using quantitative decision models. Analyzed EBITDA margins and user growth across 4 potential targets to justify the 45% acquisition premium.
 ![Revenue comparison of potential targets](/assets/images/decision analytics projects/final project/Revenue Comparison.png)
 
