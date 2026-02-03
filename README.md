@@ -123,7 +123,7 @@ Leveraged financial data to identify undervaluation trends and align fundamental
 
 ---
 
-### Digital Arena: Virtual $10M Global Project Planning and Execution Fall 2024 | Global Project Management [LINK]()
+### Digital Arena: Virtual $10M Global Project Planning and Execution Fall 2024 | Global Project Management [LINK](https://github.com/AkshitVerma97/digital-arena-global-launch)
 
 Developed the operational execution planning for a $10M global streaming startup, translating a Critical Path schedule into actionable business steps. The strategy focused on a Phased Global Launch, prioritizing a North American release to validate technical stability before expanding to international markets in Asia and Latin America.
 
