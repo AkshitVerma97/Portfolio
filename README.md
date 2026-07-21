@@ -70,6 +70,12 @@ header img {
 <hr>	        		
 
 ## Work Experience
+**Business Analyst (Volunteer) @ Bright Mind Enrichment (_May 2026 - Present_)**
+- Mentored a teammate to troubleshoot and resolve event scheduling logic, guiding them through Git CLI workflows, VS Code source control, and the implementation of strict business-hour validation rules. 
+- Participated in Agile scrum and cross-functional team meetings to prioritize web application improvements, utilizing Git/GitHub for version control and issue tracking.  
+- Proactively identified and resolved a data visualization discrepancy on the homepage map, ensuring all location data points rendered accurately within map constraints.  
+- Improved system usability and consistency by conducting frontend QA, standardizing filter layouts, dropdown sorting, and placeholder text across multiple pages.  
+
 **Operations Associate @ Aasaanjobs.com (_Jul 2019 - Aug 2019_)**
 - Supervised document verification team and improved collection rate by incorporating structured speech templates.
 - Guided grievance resolution team and improved weekly resolution rate utilizing strategic task delegation.
@@ -89,8 +95,8 @@ header img {
 End-to-end data analysis of 180K+ supply chain records using GCP BigQuery, SQL, and Power BI to diagnose regional profit margin bleed and operational bottlenecks.
 This project analyzes a global supply chain dataset (180,000+ records) to identify revenue leaks and operational inefficiencies. Using SQL for data extraction and Power BI for interactive visualization, the analysis isolates specific global regions suffering from severe margin compression and identifies logistical delays as the primary operational catalyst.
 
-![Executive performance overview](https://github.com/AkshitVerma97/Portfolio/blob/main/assets/images/global%20supply%20chain%20analysis%20personal%20project/Page%201.png)
-![Regional performance vs delivery status](https://github.com/AkshitVerma97/Portfolio/blob/main/assets/images/global%20supply%20chain%20analysis%20personal%20project/Page%202.png)
+![Executive performance overview](https://github.com/AkshitVerma97/Portfolio/blob/50ec11c932b160b2dd1356cb870b398e950ad7a1/assets/images/global%20supply%20chain%20analysis%20personal%20project/Page%201.png)
+![Regional performance vs delivery status](https://github.com/AkshitVerma97/Portfolio/blob/50ec11c932b160b2dd1356cb870b398e950ad7a1/assets/images/global%20supply%20chain%20analysis%20personal%20project/Page%202.png)
 
 ### Lending Club: Algorithmic Investment Strategy Fall 2025 | Data Mining and Financial Analysis [LINK](https://github.com/AkshitVerma97/lending-club-risk-strategy)
 
